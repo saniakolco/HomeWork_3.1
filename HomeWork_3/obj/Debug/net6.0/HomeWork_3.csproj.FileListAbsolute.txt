@@ -1,0 +1,15 @@
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.csproj.AssemblyReference.cache
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.AssemblyInfoInputs.cache
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.AssemblyInfo.cs
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.csproj.CoreCompileInputs.cache
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/bin/Debug/net6.0/HomeWork_3
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/bin/Debug/net6.0/HomeWork_3.deps.json
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/bin/Debug/net6.0/HomeWork_3.runtimeconfig.json
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/bin/Debug/net6.0/HomeWork_3.dll
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/bin/Debug/net6.0/HomeWork_3.pdb
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.dll
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/refint/HomeWork_3.dll
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.pdb
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/HomeWork_3.genruntimeconfig.cache
+/Users/УЧЁБА/HomeWork_3/HomeWork_3/obj/Debug/net6.0/ref/HomeWork_3.dll
